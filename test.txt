@@ -1,6 +1,0 @@
-.
-..
-.git
-LICENSE
-readme.txt
-rest.txt
